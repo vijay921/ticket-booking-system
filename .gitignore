@@ -1,0 +1,7 @@
+target/
+maven_extracted/
+setup_maven.py
+.superpowers/
+*.log
+.idea/
+*.iml
