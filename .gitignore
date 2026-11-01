@@ -1,6 +1,8 @@
 target/
 maven_extracted/
 setup_maven.py
+gh_extracted/
+install_gh.py
 .superpowers/
 *.log
 .idea/
